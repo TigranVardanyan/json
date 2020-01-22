@@ -1,4 +1,4 @@
-let posts = [
+[
     {
         post_title:"Grooming",
         post_subtitle:"Grooming",
